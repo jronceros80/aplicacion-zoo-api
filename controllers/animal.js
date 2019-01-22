@@ -5,7 +5,6 @@ var fs = require('fs');
 var path = require('path');
 
 //modelos
-var User = require('../models/user');
 var Animal = require('../models/animal');
 
 //acciones
